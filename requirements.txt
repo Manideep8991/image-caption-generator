@@ -1,0 +1,12 @@
+tensorflow>=2.10.0
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+nltk
+pillow
+tqdm
+kagglehub
+streamlit
